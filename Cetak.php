@@ -4,4 +4,4 @@ interface Cetak
     public function cetakStruk();
 }
 
-// atikaaaaaaaaaaaaa
+// atikaa
