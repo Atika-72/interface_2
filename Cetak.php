@@ -3,4 +3,4 @@ interface Cetak
 {
     public function cetakStruk();
 }
-// nnnn
+// nnn
