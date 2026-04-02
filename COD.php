@@ -21,5 +21,3 @@ class COD extends Pembayaran implements Cetak
                 <b>Total Bayar: Rp " . number_format($this->totalBayar, 0, ',', '.') . "</b>";
     }
 }
-
-// bbb
