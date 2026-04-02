@@ -1,5 +1,5 @@
 <?php
 interface Cetak
 {
-     function cetakStruk();
+    public function cetakStruk();
 }
