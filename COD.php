@@ -22,4 +22,4 @@ class COD extends Pembayaran implements Cetak
     }
 }
 
-// fff
+// bbb
